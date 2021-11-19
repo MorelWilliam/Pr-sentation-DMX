@@ -17,4 +17,4 @@ Avant 1986, par exemples dans les théâtres, chaque fonctions nécessitaient un
 2. Une fois cette affectation terminée, et en fonction du nombre de canaux utilisés, le produit répondra aux signaux DMX envoyés à la gamme de canaux DMX qui commence par l'adresse de départ.
 ![DMX](https://user-images.githubusercontent.com/93773413/142645884-e8a8853f-b36b-40d1-ac70-62519dfd3b6c.png)
 
-
+Source GIF : https://www.youtube.com/watch?v=Bkh1pPvUQos
