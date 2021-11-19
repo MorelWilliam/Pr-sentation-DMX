@@ -15,4 +15,6 @@ Avant 1986, par exemples dans les théâtres, chaque fonctions nécessitaient un
  Ex : 
 1. Pour que le contrôleur DMX puisse contrôler chaque produit DMX, l'utilisateur doit d'abord configurer les caractéristiques de chaque produit afin de déterminer le nombre de canaux requis pour contrôler l'appareil. Une adresse DMX sera attribuée à chaque canal.
 2. Une fois cette affectation terminée, et en fonction du nombre de canaux utilisés, le produit répondra aux signaux DMX envoyés à la gamme de canaux DMX qui commence par l'adresse de départ.
-![DMX](https://user-images.githubusercontent.com/93773413/142564627-0a3efcfc-6238-45a0-9ca0-97e29d090c16.png)
+![DMX](https://user-images.githubusercontent.com/93773413/142645884-e8a8853f-b36b-40d1-ac70-62519dfd3b6c.png)
+
+
