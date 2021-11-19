@@ -1,4 +1,7 @@
 # Présentation DMX
+[![DMX](2021-11-18-23-10-42)]
+
+
 
 ## Qu'est-ce le Digital Multiplex ?
 Le DMX est un protocole utilisé pour contrôler des appareils tels que les jeux de lumière ou les machines à fumée. Plus simplement, le DMX est un protocole pour les lumières créer en 1986.
